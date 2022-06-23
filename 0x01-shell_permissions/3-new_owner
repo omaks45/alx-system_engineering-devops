@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chown hello 3-new_owner
