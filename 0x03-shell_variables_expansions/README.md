@@ -14,3 +14,4 @@ Task 12 is a script that displays letters in double from a to z
 Task 13 is a script that displays a number with two decimal place
 Task 14 is a script that displays the conversion of a number from base 10 to base 16
 Task 15 is a script that displays the encoding and decoding of letters
+Task 16 is a script that displays other line from input starting from the first line
