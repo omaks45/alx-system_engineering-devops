@@ -5,4 +5,5 @@ Task 3 is a script that counts the number of directories in the PATH
 Task 4 is a script that prints environment variable
 Task 5 is a script that list local, environment variables and functions
 Task 6 is a script that displays new local variable
-Task 7 is a script that creates a new global variable  
+Task 7 is a script that creates a new global variable 
+Task 8 is a script that displays the addition of number and a string 
