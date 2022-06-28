@@ -10,3 +10,4 @@ Task 8 is a script that displays the addition of number and a string
 Task 9 is a script that displays division between two strings 
 Task 10 is a script that displays the power of square
 Task 11 is a script that displays the conversion from a binary to base 10
+Task 12 is a script that displays letters in double from a to z
