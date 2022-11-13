@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# A script that displays the content of the file /etc/passwd, using the while loop + IFS
+# A script that displays the content of the file `/etc/passwd` using the while loop + IFS
 
 contents="/etc/passwd"
 f1=""
