@@ -3,4 +3,4 @@
 # Display in lines containing bash word
 # shellcheck disable=SC2009
 
-auxf | grep bash
+ps auxf | grep bash
