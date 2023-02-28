@@ -1,0 +1,8 @@
+# Configure your ssh so that you can connect without typing a password.
+
+Host *
+   SendEnv LANG LC_*
+   HashKnownHosts yes
+   GSSAPIAuthentication yes
+   IdentityFile ~/.ssh/school
+   PasswordAuthentication no
